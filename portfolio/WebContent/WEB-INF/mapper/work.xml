@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="work">
+	<insert id="upload" parameterType="java.util.HashMap">
+		insert into work(name, url, tools, people, cons, day, content, uuid)
+		values(#{name}, #{url}, #{tools}, #{people}, #{cons}, #{day}, #{content}, #{uuid})
+	</insert>
+	<select id="workList" resultType="java.util.HashMap">
+		select * from work order by auto desc
+	</select>
+	<select id="count" resultType="java.lang.Integer">
+		select count(*) from work
+	</select>
+</mapper>
