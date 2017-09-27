@@ -25,6 +25,7 @@
 							<div class="work_slide">
 								<div class="work_img" id="work_${t+1 }">
 									<img src="/file/work/${workList.get(t).uuid }" id="workImg_${t+1 }"/>
+<%-- 									<img src="/img/work/workSample.png" id="workImg_${t+1 }"/> --%>
 								</div>
 							</div>
 							<img src="/img/work/imac.png"/>

@@ -221,7 +221,7 @@ $(document).ready(function(){
 		for(var i=0; i<work_high.length; i++){
 			if(work_num[i] == 0){
 				$("#work_"+(i+1)).stop().animate({
-					top: -(work_high[i]*0.65)
+					top: -(work_high[i]*1.23)
 				}, 2000);
 				work_num[i]++;
 			} else {

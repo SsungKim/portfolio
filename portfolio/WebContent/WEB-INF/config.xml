@@ -43,7 +43,7 @@
 	<!-- mysql DB 연동 -->
 <!-- 	<bean id="dataSource" class="org.apache.tomcat.dbcp.dbcp2.BasicDataSource"> -->
 <!-- 		<property name="driverClassName" value="com.mysql.jdbc.Driver"/> -->
-<!-- 		<property name="url" value="jdbc:mysql://10.108.128.23:3306/portfolio"/> -->
+<!-- 		<property name="url" value="jdbc:mysql://10.108.128.22:3306/portfolio"/> -->
 <!-- 		<property name="username" value="pf"/> -->
 <!-- 		<property name="password" value="pf"/> -->
 <!-- 	</bean> -->

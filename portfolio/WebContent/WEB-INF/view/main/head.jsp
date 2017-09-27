@@ -12,7 +12,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="SsungKim">
 <meta property="og:description" content="웹 개발자 김아성 포트폴리오 홈페이지">
-<meta property="og:image" content="http://www.ssungkim.com/logl.png">
+<meta property="og:image" content="http://www.ssungkim.com/logo.png">
 <meta property="og:url" content="http://www.ssungkim.com">
 <meta name="naver-site-verification" content="83760bc2bd16c977add913a18357041d9a8dcbe6"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -21,4 +21,4 @@
 <script src="/ckeditor/ckeditor.js"></script>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
 <link rel="shortcut icon" href="/img/main/favicon.ico">
-<title>Ssung-Kim</title>
+<title>SsungKim</title>
