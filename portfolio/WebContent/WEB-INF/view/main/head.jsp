@@ -22,3 +22,12 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
 <link rel="shortcut icon" href="/img/main/favicon.ico">
 <title>SsungKim</title>
+
+<!-- 구글 광고 -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3140289171817636",
+    enable_page_level_ads: true
+  });
+</script>

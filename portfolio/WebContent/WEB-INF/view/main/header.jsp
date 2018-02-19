@@ -24,12 +24,12 @@
 			<img src="/img/main/underline.png" id='underline_work'/>
 		</div>
 	</div>
-	<div class="menu">
-		<span id="menu_board" onclick="location.href='/board'" class="${menu == 'Board' ? 'sel' : '' }">Board</span>
-		<div class="underline">
-			<img src="/img/main/underline.png" id='underline_board'/>
-		</div>
-	</div>
+<!-- 	<div class="menu"> -->
+<%-- 		<span id="menu_board" onclick="location.href='/board'" class="${menu == 'Board' ? 'sel' : '' }">Board</span> --%>
+<!-- 		<div class="underline"> -->
+<!-- 			<img src="/img/main/underline.png" id='underline_board'/> -->
+<!-- 		</div> -->
+<!-- 	</div> -->
 	<div class="menu">
 		<span id="menu_contact" onclick="location.href='/contact'" class="${menu == 'Contact' ? 'sel' : '' }">Contact</span>
 		<div class="underline">
